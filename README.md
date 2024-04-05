@@ -6,7 +6,7 @@ As a data scientist, I have performed the following main steps on the enclosed d
 3.	Data Visualization and
 4.	Report Generation
 
-
+**************************************************************************************
 
 1.	Data Wrangling: Cleaning data, removing nonvalues, duplicates, —  data standardization or data normalization.
 2.	Data Analysis: descriptive statistical analysis on the data, group is generating the highest sales, state is generating the highest sales.
